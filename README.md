@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Fr33yr
 - 👀 I’m interested in web design and app development proyects
 - 🌱 I’m currently learning React 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fr33yr@gmail.com
 
 <!---
