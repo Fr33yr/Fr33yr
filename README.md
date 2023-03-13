@@ -39,6 +39,6 @@ I also have an interest in learning mobile development.
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="[fr33yr@gmail.com](https://twitter.com/AgustinCristobo)">
-  <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconpacks.net%2Ffree-icon%2Ftwitter-logo-2429.html&psig=AOvVaw2IpTHg4pDvVjGsFZmb9diU&ust=1678831708966000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKi4pc712f0CFQAAAAAdAAAAABAS)" width="52" height="40" alt="gmail logo"  />
+  <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconpacks.net%2Ffree-icon%2Ftwitter-logo-2429.html&psig=AOvVaw2IpTHg4pDvVjGsFZmb9diU&ust=1678831708966000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKi4pc712f0CFQAAAAAdAAAAABAS)" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
