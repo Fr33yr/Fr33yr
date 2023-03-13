@@ -7,7 +7,7 @@ always ready to help.
 *  I'm mostly specialized in frontend, but I have knowledge in backend.
 I also have an interest in learning mobile development.
 
-* :game_die: I'm a D&D player and an MTG enthusiast.
+* :game_die: I'm a D&D player and an MTG enthusiast :flower_playing_cards:.
 <br clear="both">
 
 --------------
