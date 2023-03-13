@@ -4,8 +4,8 @@ Hello there 👋 Im Agustin a frontend developer!!!
 *  I'm mostly self-taught. I love learning new things and I'm a team player,
 always ready to help.
 
-*  I'm mostly specialized in frontend, but I have knowledge in backend.
-I also have an interest in learning mobile development.
+*  I'm mostly specialized in frontend :computer:, but I have knowledge in backend.
+I also have an interest in learning mobile development :iphone:.
 
 * :game_die: I'm a D&D player and an MTG enthusiast :flower_playing_cards:.
 <br clear="both">
