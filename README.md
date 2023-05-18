@@ -19,7 +19,7 @@ I'm a web developer who specializes in using the latest technologies and framewo
 <img align="left" alt="NextJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
 </div>
 <br >
-<p>Mobile</p> 
+<p align="left">Mobile</p> 
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />        
 <br >
 
