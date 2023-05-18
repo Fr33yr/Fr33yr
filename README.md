@@ -4,7 +4,6 @@ Hello there 👋 Im Agustin a frontend developer!!!
 I'm a web developer who specializes in using the latest technologies and frameworks to build visually stunning and user-friendly websites. I'm always exploring new front-end tools and libraries to enhance my skills. Recently, I've started learning Dart and Flutter for mobile app development. I strive to create clean and maintainable code in all my projects.
 
 --------------
-<br clear="both">
 
 ### Skills
 
