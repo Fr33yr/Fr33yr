@@ -1,14 +1,7 @@
 Hello there 👋 Im Agustin a frontend developer!!!
 =========================
 
-*  I'm mostly self-taught. I love learning new things and I'm a team player,
-always ready to help.
-
-*  I'm mostly specialized in frontend :computer:, but I have knowledge in backend.
-I also have an interest in learning mobile development :iphone:.
-
-* :game_die: I'm a D&D player and an MTG enthusiast :flower_playing_cards:.
-<br clear="both">
+I'm a web developer who specializes in using the latest technologies and frameworks to build visually stunning and user-friendly websites. I'm always exploring new front-end tools and libraries to enhance my skills. Recently, I've started learning Dart and Flutter for mobile app development. I strive to create clean and maintainable code in all my projects.
 
 --------------
 
