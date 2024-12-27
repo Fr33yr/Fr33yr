@@ -11,7 +11,7 @@ I also recently participated in a **game jam** where I used **Godot Engine** to 
 ### 🛠️ Tech Stack  
 **Languages:** Kotlin, JavaScript, Node.js, HTML/CSS  
 **Mobile:** Jetpack Compose, Android Studio  
-**Backend:** Node.js, Express  
+**Backend:** Node.js, Express, WebSockets, SQLite
 **Web:** React, Tauri  
 **Game Dev:** Godot (GDScript)  
 **IoT:** NodeMCU, DS18B20 Sensors  
