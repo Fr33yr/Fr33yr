@@ -32,9 +32,3 @@ I also recently participated in a **game jam** where I used **Godot Engine** to 
 - Explore **Compose Multiplatform**  
 
 ---
-
-### 📈 GitHub Stats  
-![Agustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-
----
