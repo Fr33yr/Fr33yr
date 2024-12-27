@@ -1,18 +1,40 @@
-Hello there 👋 Im Agustin a frontend developer!!!
-=========================
+# Hey there! 👋 I'm Agustin — Frontend, Mobile & Game Dev in process 
+### Crafting seamless web, mobile, and IoT experiences 🚀  
 
-I'm a web developer who specializes in using the latest technologies and frameworks to build visually stunning and user-friendly websites. I'm always exploring new front-end tools and libraries to enhance my skills. Recently, I've started learning Dart and Flutter for mobile app development. I strive to create clean and maintainable code in all my projects.
+I'm a **front end developer** specializing in **Android (Kotlin)** and **React.js**.  
+Lately, I've been diving into **Jetpack Compose**, building mobile apps with dynamic charts, and exploring IoT projects using **NodeMCU** and **DS18B20 sensors**.  
 
---------------
+I also recently participated in a **game jam** where I used **Godot Engine** to develop a small game, sparking my interest in game development.  
 
+---
 
-### Skills
+### 🛠️ Tech Stack  
+**Languages:** Kotlin, JavaScript, Node.js, HTML/CSS  
+**Mobile:** Jetpack Compose, Android Studio  
+**Backend:** Node.js, Express  
+**Web:** React, Tauri  
+**Game Dev:** Godot (GDScript)  
+**IoT:** NodeMCU, DS18B20 Sensors  
+**Tools:** Git, Docker, Postman  
 
-<img align="left" alt="Html" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-<img align="left" alt="Css" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />             
-<img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NextJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />   
-<br >
+---
 
+### 📚 What I’m Working On  
+- **📱 IoT Temperature Logger** (Android + NodeMCU)  
+- **📊 Dynamic Chart App** (Jetpack Compose + Vico)  
+- **🧱 Modular IoT Projects**  
+
+---
+
+### 🚧 Upcoming Goals   
+- Build more **Godot projects**  
+- Expand **IoT projects** with more sensors and cloud integration  
+- Explore **Compose Multiplatform**  
+
+---
+
+### 📈 GitHub Stats  
+![Agustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+
+---
