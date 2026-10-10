@@ -17,18 +17,3 @@ I also recently participated in a **game jam** where I used **Godot Engine** to 
 **IoT:** NodeMCU, DS18B20 Sensors  
 **Tools:** Git, Docker, Postman  
 
----
-
-### 📚 What I’m Working On  
-- **📱 IoT Temperature Logger** (Android + NodeMCU)  
-- **📊 Dynamic Chart App** (Jetpack Compose + Vico)  
-- **🧱 Modular IoT Projects**  
-
----
-
-### 🚧 Upcoming Goals   
-- Build more **Godot projects**  
-- Expand **IoT projects** with more sensors and cloud integration  
-- Explore **Compose Multiplatform**  
-
----
